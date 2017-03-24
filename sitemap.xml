@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+<url>
+<loc>http://m.pixeljogos.com/</loc>
+<mobile:mobile/>
+</url>
+<url>
+<loc>http://m.pixeljogos.com/posts/Ultimate-Swish.html</loc>
+<mobile:mobile/>
+</url>
+<url>
+<loc>http://m.pixeljogos.com/posts/Dogi-Bubble-Shooter.html</loc>
+<mobile:mobile/>
+</url>
+<url>
+<loc>http://m.pixeljogos.com/posts/Farm-Invaders.html</loc>
+<mobile:mobile/>
+</url>
+<url>
+<loc>http://m.pixeljogos.com/posts/zBall.html</loc>
+<mobile:mobile/>
+</url>
+<url>
+<loc>http://m.pixeljogos.com/posts/mr-miner.html</loc>
+<mobile:mobile/>
+</url>
+<url>
+<loc>http://m.pixeljogos.com/posts/Cyberfusion.html</loc>
+<mobile:mobile/>
+</url>
+</urlset>
